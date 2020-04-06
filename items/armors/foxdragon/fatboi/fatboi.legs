@@ -1,0 +1,30 @@
+{
+  "itemName" : "fatboilegs",
+  "price" : 35,
+  "inventoryIcon" : "icon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "For the big and beautiful bois",
+  "shortdescription" : "Fluffypants",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+ "colorOptions" : [
+   //dark, mid, light
+    {	 "806241" : "806241",	 "a17b52" : "a17b52",	 "c6955e" : "c6955e"}, //orange default
+    {	 "806241" : "6f8ea8",	 "a17b52" : "b7c6d5",	 "c6955e" : "e3e7e7"}, //white
+    {	 "806241" : "804141",	 "a17b52" : "a15252",	 "c6955e" : "c65e5e"}, //red
+    {	 "806241" : "415c80",	 "a17b52" : "5284a1",	 "c6955e" : "5e95c6"}, //blue
+    {	 "806241" : "715980",	 "a17b52" : "986fa1",	 "c6955e" : "b589c4"}, //purple
+    {	 "806241" : "e2e866",	 "a17b52" : "f9ff82",	 "c6955e" : "fbffaa"}, //yellow
+    {	 "806241" : "86b080",	 "a17b52" : "9dcf97",	 "c6955e" : "b1e8a9"}, //mutegreen
+    {	 "806241" : "414341",	 "a17b52" : "6d6f6d",	 "c6955e" : "a6a6a6"}, //grey
+    {	 "806241" : "593e21",	 "a17b52" : "855d31",	 "c6955e" : "9b6d39"}, //brown
+    {	 "806241" : "6c486f",	 "a17b52" : "b87abc",	 "c6955e" : "d6a9d9"}, //purple
+    {	 "806241" : "60bcae",	 "a17b52" : "8be9da",	 "c6955e" : "b7fff4"}, //lightblue
+    {	 "806241" : "2a324e",	 "a17b52" : "424e7a",	 "c6955e" : "5d6da6"}, //deepblue
+    {	 "806241" : "6ab157",	 "a17b52" : "87d373",	 "c6955e" : "a7ff8f"}, //lime
+    {	 "806241" : "d3c890",	 "a17b52" : "e9dfa7",	 "c6955e" : "fff5c0"}  //peach
+  ]
+}

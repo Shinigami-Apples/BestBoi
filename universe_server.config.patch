@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/foxdragon",
+		"value" : [
+		    "/ships/foxdragon/foxdragont0.structure",
+			"/ships/foxdragon/foxdragont1.structure",
+			"/ships/foxdragon/foxdragont2.structure",
+			"/ships/foxdragon/foxdragont3.structure",
+			"/ships/foxdragon/foxdragont4.structure",
+			"/ships/foxdragon/foxdragont5.structure",
+			"/ships/foxdragon/foxdragont6.structure",
+			"/ships/foxdragon/foxdragont7.structure",
+			"/ships/foxdragon/foxdragont8.structure"
+		]
+	}
+]

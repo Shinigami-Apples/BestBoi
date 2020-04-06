@@ -1,0 +1,5 @@
+[
+ { "op": "add", "path": "/defaultCodexes/foxdragon",  "value": [ "protectorate1", "protectorate2", "foxdragondiary" ] },
+ { "op": "add", "path": "/defaultBlueprints/tier1/0", "value": { "item": "squeaker" } },
+ { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "bestCowboyHat" }}
+]

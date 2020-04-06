@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/foxdragon",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/foxdragon",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

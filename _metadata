@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "tags" : "Musical Instruments and Songs|NPCs and Creatures|Weapons|Species",
+  "author" : "Potatinate",
+  "description" : "This is a Work In Progress mod, everything is subject to change, and some things may break or be removed.\n\nShip sprites provided by Abarilov.\n\nThe Fox Dragon, also often referred to as Dutch Foxes or Best Bois are fox-like entities which stand on their hind legs in a manner similar to humans.  The paws on Best Bois are large and flat, very clearly meant to tread on rocky grasslands and forested areas, with retractable claws for increased traction while moving and climbing. The Best Bois social system is incredibly communal and is based around the conservation and protection of the land and life around them. The Best Bois view their community as family. The Best Bois have a mainly pescatarian diet. Their main source of food comes from small fish and local wild berries. Long ago, they had an empire that spanned the stars. Nowadays they can be seen inhabiting small villages and cities.\n\nMod created by and for the Best Boi Project community.\n\nDiscord server: https://discord.gg/x6N3cPf",
+  "name" : "BestBoiRaceMod",
+  "path" : ".",
+  "friendlyName" : "Bestboi race",
+  "steamContentId" : "1927216283",
+  "link" : "steam://url/CommunityFilePage/1927216283"
+}

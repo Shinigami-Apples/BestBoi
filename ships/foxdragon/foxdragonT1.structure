@@ -1,0 +1,26 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "ussrT1.png",
+      "position" : [-2, -1]
+    }
+  ],
+  
+  "foregroundOverlays" : [
+    {
+      "image" : "ussrT1foreground.png",
+      "position" : [-2, -1]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "ussrT1blocks.png"
+}

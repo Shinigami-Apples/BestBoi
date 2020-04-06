@@ -1,0 +1,21 @@
+[
+  {
+    "op": "add",
+    "path": "/foxdragonStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "BestBoiSwordCrusty", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "bestRebreather", 1 ]},
+        {"item" : [ "nakeyhead", 1 ]},
+        {"item" : [ "nakeychest", 1 ]},
+        {"item" : [ "nakeypants", 1 ]}
+        ]
+    }]]
+  }
+]

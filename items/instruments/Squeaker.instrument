@@ -1,0 +1,20 @@
+{
+  "itemName" : "squeaker",
+  "price" : 1,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "squeakericon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Be annoying!",
+  "shortdescription" : "Squeaker",
+  "largeImage" : "squeakericonlarge.png",
+  "image" : "squeaker.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "squeaker.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : false,
+  "kind" : "squeaker"
+}

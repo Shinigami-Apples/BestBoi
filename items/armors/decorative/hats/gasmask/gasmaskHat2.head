@@ -1,0 +1,19 @@
+{
+  "itemName" : "bestGasmask",
+  "price" : 2500,
+  "inventoryIcon" : "icon.png",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headwear",
+  "description" : "On my ^red;MAMA&white; I be breathin'!",
+  "shortdescription" : "Gas Mask",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  
+  "colorOptions" : [
+    { "000000": "000000" }
+  ]
+}

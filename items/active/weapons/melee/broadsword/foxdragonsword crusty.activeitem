@@ -1,0 +1,28 @@
+{
+  "itemName" : "BestBoiSwordCrusty",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A crusted-over antique sword. Maybe you can restore it?",
+  "shortdescription" : "Crusty Fox Dragon Sword",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "foxdragonswordcrusty.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "foxdragonswordcrusty.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 7
+  },
+  "altAbilityType" : "downstab",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

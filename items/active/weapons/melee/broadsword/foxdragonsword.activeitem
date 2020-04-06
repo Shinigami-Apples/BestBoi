@@ -1,0 +1,28 @@
+{
+  "itemName" : "BestBoiSword",
+  "price" : 5000,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "A refurbished antique",
+  "shortdescription" : "Fox Dragon Sword",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "foxdragonsword.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "foxdragonsword.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "poison",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 20
+  },
+  "altAbilityType" : "downstab",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

@@ -1,0 +1,19 @@
+{
+  "itemName" : "bestChef",
+  "price" : 2500,
+  "inventoryIcon" : "icon.png",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headwear",
+  "description" : "He cookin'",
+  "shortdescription" : "Chef Hat",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  
+  "colorOptions" : [
+    { "000000": "000000" }
+  ]
+}

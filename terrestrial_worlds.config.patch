@@ -1,0 +1,27 @@
+[
+ {
+	"op": "add",
+	"path": "/planetTypes/desert/layers/surface/dungeons",
+	"value": [[2.0, "bestboivillage"]]
+ },
+ {
+	"op": "add",
+	"path": "/planetTypes/forest/layers/surface/dungeons",
+	"value": [[2.0, "bestboivillage"]]
+ },
+ {
+	"op": "add",
+	"path": "/planetTypes/savannah/layers/surface/dungeons",
+	"value": [[2.0, "bestboivillage"]]
+ },
+ {
+	"op": "add",
+	"path": "/planetTypes/jungle/layers/surface/dungeons",
+	"value": [[2.0, "bestboivillage"]]
+ },
+ {
+	"op": "add",
+	"path": "/planetTypes/tundra/layers/surface/dungeons",
+	"value": [[4.0, "bestboivillage"]]
+ }
+]

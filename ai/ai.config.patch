@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/foxdragon",
+		"value" : {
+			"aiFrames" : "foxdragonAI.png",
+			"portraitFrames" : "portraits/foxdragonportrait.png",
+			"staticFrames" : "staticfoxdragon.png"	
+		}
+	}
+]

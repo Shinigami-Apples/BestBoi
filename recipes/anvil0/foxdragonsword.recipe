@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "goldbar", "count" : 6 },
+    { "item" : "BestBoiSwordCrusty", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "BestBoiSword", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}
